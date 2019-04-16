@@ -26,8 +26,6 @@ Migrate to Database & Run the project:
 ./manage.py runserver
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
-
 ## Add to your project
 
 Copy the authentication package into your own project & add it the installed apps
